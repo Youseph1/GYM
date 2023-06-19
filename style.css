@@ -1,0 +1,191 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    list-style-type: none;
+    text-decoration: none;
+}
+.mab{
+    width: 100%;
+    height: 100vh;
+   background-image: url("sawir/pexels-anush-gorak-1229356.jpg");
+   background-size: cover;
+   background-position: center;
+}
+
+.suu{
+    display: flex;
+    background-size: cover;
+
+    
+}
+
+.sidow{
+   margin-top: 80px;
+font-size: 25px;
+ 
+
+  
+}
+
+.sa{
+    position: center;
+    color: #fff;
+}
+.bum ul li a{
+    color: rgb(142, 245, 9);
+    cursor: pointer;
+   
+    
+padding: 32px;
+display: flex;
+list-style: none;
+display: inline-block;
+
+
+}
+
+.yu{
+    color: aliceblue;
+    font-style: oblique;
+    font-size: 100px;
+    padding: 50px;
+    
+    
+}
+.yo h1{
+    max-width: 600px;
+}
+
+.yo{
+    margin-inline: 4px;
+    color: aliceblue;
+    font-size: 23px;
+   margin-top : 50px;
+   margin-left: 50px;
+}
+.yo button{
+    font-size: 25px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.suu{
+    display: flex;
+    justify-content: space-between;
+    padding: 12px;
+    background-color: rgba(7, 7, 7, 0.89);
+    font-size: 30px;
+}
+.logo{
+    color: #fff;
+    font-style: oblique;
+}
+.menu ul{
+    display: flex;
+    
+    
+}
+.menu li a{
+    padding-left: 21px;
+    color: white;
+    
+}
+.swir img{
+    width: 690px;
+padding-left: 200px;
+height: 400px;
+}
+.you{
+    display: flex;
+    margin: 12px;
+    color: #fff;
+    background-color: rgb(48, 48, 48);
+    padding: 32px;
+    height: 380px;
+    
+}
+.yusuf{
+   font-size: 20px;
+   font-style: inherit;
+}
+.qurxin{
+    display: flex;
+    justify-content: space-around;
+    margin: 90px;
+    
+}
+.qoraal img{
+width: 60px;
+}
+.qoraal h2{
+    margin: 2px;
+    padding: 3px;
+}
+.ca{
+   background-color: rgb(192, 156, 228);
+background-position: cover;
+padding: 276px;
+
+}
+.co{
+    display: inline;
+
+}
+.d2 {
+    margin-left: 700px;
+    font-size: 50px;
+font-style: initial;
+
+}
+.d1{
+    font-size: 32px;
+    display: inline-block;
+}
+.d2{
+    display: inline-end;
+}
+.po{
+    font-size: 20px;
+
+}
+.po p{
+    font-size: 55px;
+    font-style: initial;
+}
+.wy{
+    width: 23%;
+
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
